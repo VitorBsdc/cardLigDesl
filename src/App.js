@@ -1,8 +1,12 @@
-import './App.css';
+import "./App.css";
+import ToggleButton from "./componentes/Cards/ToggleButton";
 
 function App() {
   return (
-    <h1>Teste github push</h1>
+    <>
+      <ToggleButton />
+      <h1>Teste github push</h1>
+    </>
   );
 }
 
