@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Teste</h1>
+    <h1>Teste github push</h1>
   );
 }
 
